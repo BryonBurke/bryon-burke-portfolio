@@ -28,6 +28,6 @@ _This app was developed using bootstrap classes_
 
 ### License
 
-*This app licensed under GPL*
+*This app licensed under GPL, github pages at https://bryonburke.github.io/bryon-burke-portfolio/*
 
 Copyright (c) 2016 Bryon Burke
