@@ -26,8 +26,9 @@ _Please contact me at bryonparis@ gmail.com for support_
 
 _This app was developed using bootstrap classes_
 
-### License
+### License and github pages
 
-*This app licensed under GPL, github pages at https://bryonburke.github.io/bryon-burke-portfolio/*
+*This app licensed under GPL  
+github pages at https://bryonburke.github.io/bryon-burke-portfolio/*
 
 Copyright (c) 2016 Bryon Burke
